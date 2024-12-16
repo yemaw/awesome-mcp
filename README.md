@@ -1,6 +1,5 @@
 ## Thinking Assistants
-- **[Sequential Thinking]([https://github.com/danhilse/notion_mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking))**
-
+- **[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)**
   
 ## Local Machine
 - **[Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)**
